@@ -1,0 +1,203 @@
+{
+  "status": "ok",  "totalResults": 18,
+  "articles": [
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Cricket squad begins a new training camp",
+      "description": "Local sample data used to demonstrate the Sports category without depending on a live API.",
+      "url": "https://example.com/newsmonkey-demo/sports-1",
+      "urlToImage": "https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T08:00:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Marathon organisers announce the route",
+      "description": "A second sample Sports card so you can verify the category filter and card layout.",
+      "url": "https://example.com/newsmonkey-demo/sports-2",
+      "urlToImage": "https://images.unsplash.com/photo-1552674605-db6ffd4facb5?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T07:35:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Young footballers prepare for the league opener",
+      "description": "This mock story helps test long headlines and the Read More button in the Sports section.",
+      "url": "https://example.com/newsmonkey-demo/sports-3",
+      "urlToImage": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T07:10:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Badminton academy opens community sessions",
+      "description": "A local placeholder for checking image fallbacks and pagination behaviour.",
+      "url": "https://example.com/newsmonkey-demo/sports-4",
+      "urlToImage": "https://images.unsplash.com/photo-1626224583764-f87db24ac4ea?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T06:45:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Coaches share tips for the weekend match",
+      "description": "A deliberately ordinary demo record, not a real news report.",
+      "url": "https://example.com/newsmonkey-demo/sports-5",
+      "urlToImage": "https://images.unsplash.com/photo-1517466787929-bc90951d0974?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T06:20:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: School teams compete in a friendly tournament",
+      "description": "Use this data to test that every category stays separate from the others.",
+      "url": "https://example.com/newsmonkey-demo/sports-6",
+      "urlToImage": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T05:55:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Cycling club maps a safe city ride",
+      "description": "A sample headline for the first page of Sports cards.",
+      "url": "https://example.com/newsmonkey-demo/sports-7",
+      "urlToImage": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T05:30:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Tennis players return for pre-season practice",
+      "description": "This article is intentionally placed after the first page to test Next and Previous.",
+      "url": "https://example.com/newsmonkey-demo/sports-8",
+      "urlToImage": "https://images.unsplash.com/photo-1622279457486-62dcc4a431d6?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T05:05:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Community pool introduces morning classes",
+      "description": "A sample Sports article, not an actual news item.",
+      "url": "https://example.com/newsmonkey-demo/sports-9",
+      "urlToImage": "https://images.unsplash.com/photo-1530549387789-4c1017266635?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T04:40:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "sports",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Athletes celebrate a season of progress",
+      "description": "The tenth item lets the sample Sports category show a second page.",
+      "url": "https://example.com/newsmonkey-demo/sports-10",
+      "urlToImage": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T04:15:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "technology",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Students build a tool for easier city travel",
+      "description": "Sample Technology data appears only when Technology is selected.",
+      "url": "https://example.com/newsmonkey-demo/technology-1",
+      "urlToImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T08:15:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "technology",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: New coding workshop welcomes beginners",
+      "description": "A second Technology card for verifying category-specific results.",
+      "url": "https://example.com/newsmonkey-demo/technology-2",
+      "urlToImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T07:50:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "health",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Neighbourhood clinic hosts a wellness day",
+      "description": "Sample Health data is kept separate from Sports and Technology data.",
+      "url": "https://example.com/newsmonkey-demo/health-1",
+      "urlToImage": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T08:10:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "health",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Doctors explain everyday sleep habits",
+      "description": "A non-medical placeholder article used only to exercise the UI.",
+      "url": "https://example.com/newsmonkey-demo/health-2",
+      "urlToImage": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T07:25:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "business",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Local makers present their small businesses",
+      "description": "Mock Business content for development and visual testing.",
+      "url": "https://example.com/newsmonkey-demo/business-1",
+      "urlToImage": "https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T06:35:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "entertainment",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Film club schedules an open-air screening",
+      "description": "Mock Entertainment data for the category navigation.",
+      "url": "https://example.com/newsmonkey-demo/entertainment-1",
+      "urlToImage": "https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T07:05:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "general",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: City volunteers plan a public clean-up",
+      "description": "General sample data shown when the NewsMonkey brand button is selected.",
+      "url": "https://example.com/newsmonkey-demo/general-1",
+      "urlToImage": "https://images.unsplash.com/photo-1532629345422-7515f3d16bb6?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T08:25:00Z",
+      "content": "Demo article for local development only."
+    },
+    {
+      "category": "science",
+      "source": { "id": "newsmonkey-demo", "name": "NewsMonkey Demo" },
+      "author": "NewsMonkey Team",
+      "title": "Demo: Astronomy group prepares a stargazing night",
+      "description": "Local Science content used for safe offline testing.",
+      "url": "https://example.com/newsmonkey-demo/science-1",
+      "urlToImage": "https://images.unsplash.com/photo-1444703686981-a3abbc4d4fe3?auto=format&fit=crop&w=1200&q=80",
+      "publishedAt": "2026-10-18T07:40:00Z",
+      "content": "Demo article for local development only."
+    }
+  ]
+}

@@ -2,6 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## News API setup
+
+Create a `.env` file in the project root and add your NewsAPI key:
+
+```text
+REACT_APP_NEWS_API_KEY=your_newsapi_key
+```
+
+Restart the development server after changing `.env`. Do not commit your real API
+key; `.env.example` is provided as a template. If you have a server-side news
+proxy, set `REACT_APP_NEWS_API_URL` to its endpoint instead of exposing a key in
+the browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
