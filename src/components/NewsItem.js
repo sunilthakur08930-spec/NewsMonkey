@@ -4,13 +4,21 @@ const fallbackImage = 'https://images.unsplash.com/photo-1504711434969-e33886168
 
 export default class NewsItem extends Component {
   render() {
-    let { title, description, imageUrl, newsUrl, author, date, source} = this.props;
+    let { title, description, imageUrl, newsUrl, author, date, source } = this.props;
     return (
       <div className="my-3">
         <div className="card">
-          <span className="position-absolute top-0 translate-middle badge rounded-pill bg-danger" style={{ left: '90%', zIndex: '1' }}>
+          <div style={{
+            display: 'flex',
+            justifyContent: 'flex-end',
+            position: 'absolute',
+            right: '0'
+          }}>
+            <span className="badge rounded-pill bg-danger">
               {source}
             </span>
+
+          </div>
           <img
             src={imageUrl || fallbackImage}
             className="card-img-top"
