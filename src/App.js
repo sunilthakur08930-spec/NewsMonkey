@@ -13,15 +13,12 @@ export default class App extends Component {
   pageSize = 15;
 
   state = {
-    progress: 0
+    progress: 0,
+    mode: 'light'
   }
 
   setProgress = (progress) => {
     this.setState({ progress: progress })
-  }
-
-  state = {
-    mode: 'light'
   }
 
   toggleMode = () => {
